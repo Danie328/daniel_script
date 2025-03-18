@@ -1,19 +1,10 @@
-#!/bin/bash
-  
+Olá, segue um descritivo simples para execuçãpo doa arquivo;
 
-#                                                               """"""""""""""" Cálculadora """"""""""""
-
-
-echo 'Olá Professor'
-
-echo o diretório atual é
-
-echo  /home/daniel/modulo1/linux/python
+ - No terminal use o comando './nano daniel_calculadora.sh para execução.'
 
 
-echo 'Finalizando o Script'
-
-echo ' Cálcule'
+ 
+      ' Cálcule'
 
 #print = ('digite um número')
 #num1 =  #int(input())
