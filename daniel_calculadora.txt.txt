@@ -1,20 +1,12 @@
 
 Olá,
 
- Esse documeno tem por objetivo mostrar os comandos na qual foram utilizados para criação do arquivo e suas respectivas permissões e funciomento.
+ - Abaixo vemos um script de uma cálculadora simples, porém bem funcional com comandos de números inteiros (int) e números flutuantes 
+   (float), que são nada menos do que números decimais.
 
+- É simples, basta escolher qualquer valor numérico, executar qualquer operação aritmética desrcrita na calculadora para se obter o resultado desejado.
 
- No exercício em questão foi pedido para manter a execução somente do proprietário e leitura para os demais grupos.
-
-1 - O comando "chmod" e nome_do_ arquivo para habilitar a permissão e executar.
-
-2 - Executando o script da cálculadora:
-
-3 - Abaixo vemos um script de uma cálculadora simples, porém bem funcional com comandos de números inteiros (int) e números flutuantes (float), que são nada menos do que números decimais.
-
-É simples, basta escolher qualquer valor numérico, executar qualquer operação aritmética desrcrita na calculadora para se obter o resultado desejado.
-
-Exemplo escrito:
+ - Exemplo escrito:
 
  1O*20  = 200
 
@@ -24,8 +16,7 @@ Exemplo escrito:
 
 Assim funcionará sucessivamente e de forma objetiva qualquer comando que voçê queira executar.
 
-
-# Cálcule
+- Executando o script da cálculadora:
 
 #print = ('digite um número')
 #num1 =  #int(input())
