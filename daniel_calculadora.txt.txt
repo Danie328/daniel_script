@@ -1,0 +1,73 @@
+
+Olá,
+
+ Esse documeno tem por objetivo mostrar os comandos na qual foram utilizados para criação do arquivo e suas respectivas permissões e funciomento.
+
+
+ No exercício em questão foi pedido para manter a execução somente do proprietário e leitura para os demais grupos.
+
+1 - O comando "chmod" e nome_do_ arquivo para habilitar a permissão e executar.
+
+2 - Executando o script da cálculadora:
+
+3 - Abaixo vemos um script de uma cálculadora simples, porém bem funcional com comandos de números inteiros (int) e números flutuantes (float), que são nada menos do que números decimais.
+
+É simples, basta escolher qualquer valor numérico, executar qualquer operação aritmética desrcrita na calculadora para se obter o resultado desejado.
+
+Exemplo escrito:
+
+ 1O*20  = 200
+
+ ou então
+
+ 10%20 = 2 
+
+Assim funcionará sucessivamente e de forma objetiva qualquer comando que voçê queira executar.
+
+
+# Cálcule
+
+#print = ('digite um número')
+#num1 =  #int(input())
+         #float(input())
+
+#print = ('digite uma operação')
+#operador = #input()
+
+#print = ('digite um segundo número')
+#num2 = #int(input())
+         #float(input())
+
+# if operador == '+':
+ # resultado = num1 + num2
+    #print (resultado)
+
+# elif operador == '-':
+# resultado = num1 - num2
+     #print(resultado)
+
+# elif operador == '*':
+# resultado = num1 * num2
+    #print(resultado)
+
+# elif operador == '/':
+# resultado = num1 / num2
+    #print(resultado)
+
+#  elif operador == '//':
+# resultado = num1 // num2
+     #print(resultado)
+
+# elif operador == '%':
+# resultado = num1 % num2
+    #print(resultado)
+
+# elif operador == '**':
+ # resultado = num1 ** num2
+     #print(resultado)
+
+# else: operadores == <, >, and, not, or:
+  #print ('operação incorreta')
+
+
+ " Finalizando o Script"
