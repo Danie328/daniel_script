@@ -1,6 +1,6 @@
 Olá, segue um descritivo simples para execuçãpo doa arquivo;
 
- - No terminal use o comando './nano daniel_calculadora.sh para execução.'
+ - No terminal use o comando './ daniel_calculadora.sh' para execução.
 
 
  
