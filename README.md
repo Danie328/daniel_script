@@ -1,6 +1,10 @@
-Olá, segue um descritivo simples para execução da calculadora;
+# Olá, executando os script.
 
- 1 - Qualquer comadando que for executado na cálculadora dentre as operaçoes abaixo;
+Para execução do arquivo .sh, no terminal use o comando './ daniel_calculadora.sh' para execução.
+
+# Agora, segue um descritivo simples para execução da calculadora;
+
+ 1 - Qualquer comadando que for executado na cálculadora dentre as operações abaixo;
  2 - Basta escolher um número decimal ou interios, depois aplicar a operação desejada, escolher um segundo número, enter, e obterá um resultado.
 
 
